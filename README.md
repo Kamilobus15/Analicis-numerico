@@ -1,2 +1,0 @@
-# Analicis-numerico
-trabajos 
