@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# este es un pequeño código que hicimos para organizar una matriz diagonal mente dominante  -
 """
 Created on Fri Mar 12 07:13:32 2021
 
